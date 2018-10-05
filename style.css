@@ -1,3 +1,5 @@
+
+
 @font-face
 {
     font-family:'haxrcorp';
@@ -12,7 +14,7 @@ input {
 body{
 	font-family: haxrcorp, monospace;
 	font-size:15px;
-	background-color:#F8F8F8;
+	background-color:#394952;
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
@@ -26,13 +28,13 @@ body{
     left: 0px;
     right: 0px;
     margin: auto;
-	background-color:transparent;
+	background-color:#f1f1f1;
 }
 
 .main {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #000000;
+	border-color: #394952;
 	position: absolute;
 	top: -2px;
 
@@ -41,7 +43,7 @@ body{
     left: -2px;
     right: 190px;
     margin: auto;
-	background-color:#FFFFFF;
+	background-color:#394952;
 	text-align:center;
 }
 
@@ -57,8 +59,8 @@ body{
 	margin-right:2px;
 	border-style: solid;
 	border-width: 2px;
-	border-color: #000000;
-	background-color:#ffffff;
+	border-color: #46464b;
+	background-color:#394952;
 }
 
 .button:hover {
@@ -68,10 +70,10 @@ body{
 .searchbar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #000000;
+	border-color: #46464b;
     width: auto;
 	height: 12px;
-	background-color:#FFFFFF;
+	background-color:#394952;
 	overflow: hidden;
 }
 
@@ -101,13 +103,13 @@ body{
 .marqueebar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #000000;
+	border-color: #394952;
     width: 300px;
 	height: 12px;
 	line-height:12px;
 	float:right;
 	margin-left:2px;
-	background-color:#FFFFFF;
+	background-color:#394952;
 	overflow:hidden;
 }
 
@@ -135,21 +137,21 @@ body{
 .sidebar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #000000;
+	border-color: #394952;
 	position: absolute;
 	top: -2px;
 	bottom:200px;
     width: 129px;
 	height: 319px;
     left: 541px;
-	background-color:#FFFFFF;
+	background-color:FFFFFFt;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 .time {
-	color:#FFFFFF;
+	color:FFFFFF;
 	font-family: haxrcorp, monospace;
 	font-size:16px;
 	position: absolute;
@@ -214,7 +216,7 @@ a {
 	font-size:16px;
 	height:12px;
 	line-height:12px;
-	color:#000000;
+	color:FFFFFF;
 }
 
 a:hover {
@@ -225,7 +227,7 @@ a:hover {
 	font-size: 16px;
 	text-decoration:none;
 	line-height: 16px;
-	color:#000000;
+	color:#f1f1f1;
 }
 
 .clink:hover{
